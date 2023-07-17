@@ -20,7 +20,7 @@ I'm a Software Engineer and Community Engineer who is passionate about sharing k
 
 ---
 <div align="center" dir="auto">
-  <img align="center" style="width: 68%;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samuel-oso&show_icons=true&include_all_commits=true&hide_border=true" alt="Samuel's GitHub stats" /> 
+  <img align="center" style="width: 58%;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samuel-oso&show_icons=true&include_all_commits=true&hide_border=true" alt="Samuel's GitHub stats" /> 
 
-<img align="center" style="width: 28%;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samuel-oso&langs_count=8&layout=compact&hide_border=true" alt="Samuel's GitHub stats" />
+<img align="center" style="width: 38%;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samuel-oso&langs_count=8&layout=compact&hide_border=true" alt="Samuel's GitHub stats" />
 </div>
