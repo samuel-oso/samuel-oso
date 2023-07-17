@@ -19,9 +19,8 @@ I'm a Software Engineer and Community Engineer who is passionate about sharing k
 - 📫 You can contact me by emailing ososamuel035@gmail.com.
 
 ---
-<div class='container'>
+<div align="center" dir="auto">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samuel-oso&show_icons=true&include_all_commits=true&hide_border=true" alt="Samuel's GitHub stats" /> 
-&nbsp;
-&nbsp;
+
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samuel-oso&langs_count=8&layout=compact&hide_border=true" alt="Samuel's GitHub stats" />
 </div>
