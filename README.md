@@ -25,12 +25,3 @@ I'm a Software Engineer and Community Engineer who is passionate about sharing k
 &nbsp;
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samuel-oso&langs_count=8&layout=compact&hide_border=true" alt="Samuel's GitHub stats" />
 </div>
-
-
-
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samuel-oso&show_icons=true&include_all_commits=true&hide_border=true" alt="Samuel's GitHub stats" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samuel-oso&langs_count=8&layout=compact&hide_border=true" alt="Samuel's GitHub stats" />
-</div>
