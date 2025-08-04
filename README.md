@@ -6,15 +6,11 @@ I'm a Software Engineer and Community Engineer who is passionate about sharing k
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
+- 🔭 I’m currently working on JavaScript, TypeScript, and ReactJs Projects.
 
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 😊 I’m looking to collaborate with open-source projects, hackathons and web applications.
 
-- 🌱 I’m currently learning JavaScript, TypeScript, and ReactJs.
-
-- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
-
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer.
 
 - 📫 You can contact me by emailing ososamuel035@gmail.com.
 
