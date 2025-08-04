@@ -1,4 +1,4 @@
-# Hello there; welcome 👋🏾
+# Hello there! 👋🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/samueloso-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-oso)](https://www.linkedin.com/in/samuel-oso) [![Twitter Badge](https://img.shields.io/badge/-@iamsamueloso-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iamsamueloso)](https://twitter.com/iamsamueloso)
 
