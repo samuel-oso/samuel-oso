@@ -1,15 +1,25 @@
-# Hello there! 👋🏼
+# Samuel Oso
 
-[![Linkedin Badge](https://img.shields.io/badge/samueloso-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-oso)](https://www.linkedin.com/in/samuel-oso) [![Twitter Badge](https://img.shields.io/badge/-@iamsamueloso-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iamsamueloso)](https://twitter.com/iamsamueloso)
+Software engineer in Lagos, Nigeria, focused on the frontend. I take web products from mockup to shipped feature with React, Next.js and TypeScript.
 
-I'm a Software Engineer and Community Engineer who is passionate about sharing knowledge, documentation, web engineering, technical writing, and others. I create technical content (on my [Blog](https://hashnode.com/@samueloso),  build useful [open-source projects](https://github.com/samuel-oso), build technical communities...
+I trained in biology and laboratory science before moving into software, and I still work like a scientist: form a hypothesis, test it, trust the evidence.
 
-**Here's a quick summary about me**:
+## Work
 
-- 🔭 I’m currently working on JavaScript, TypeScript, and ReactJs Projects.
+**[Harmattan](https://github.com/samuel-oso/harmattan)** ([live](https://harmattan-09s.vercel.app))
 
-- 😊 I’m looking to collaborate with open-source projects, hackathons and web applications.
+Air quality across 20 African cities, hour by hour. Each city loads on its own, so one can fail and be retried without taking the others down. Built with Next.js, TanStack Query, Zustand and Recharts, and checked on every push with Jest, Playwright and axe.
 
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer.
+**Dojah** ([case study](https://samuel-oso-portfolio.vercel.app/work/dojah))
 
-- 📫 You can contact me by emailing ososamuel035@gmail.com.
+I'm a frontend engineer at Dojah, an identity verification company. In 2026 I built the new design for its dashboard, in light and dark, beside the old one while customers kept working. The code is private, so the case study covers the decisions instead.
+
+## Tools
+
+React · Next.js · TypeScript · Angular · Tailwind CSS · TanStack Query · Zustand · Redux · Jest · Playwright
+
+## Get in touch
+
+Open to contract work.
+
+[Portfolio](https://samuel-oso-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/samuel-oso/) · [ososamuel035@gmail.com](mailto:ososamuel035@gmail.com)
