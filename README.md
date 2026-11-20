@@ -14,6 +14,10 @@ Most of what I build sits in private company repositories, so this profile shows
 
 **[Dojah](https://samuel-oso-portfolio.vercel.app/work/dojah).** I'm a frontend engineer at Dojah, an identity verification company. In 2026 I built the new design for its dashboard, in light and dark. There was no switch-over day: the new screens went in beside the old ones while customers kept working, and colours that had been typed by hand were replaced with one set of named ones. I also build pages for the public website. The code is private, so the [case study](https://samuel-oso-portfolio.vercel.app/work/dojah) covers the decisions instead.
 
+[![The opening frame of the Faceless YouTube Mentorship landing page, with a video player's controls under it](assets/faceless.png)](https://samuel-oso-portfolio.vercel.app/work/faceless)
+
+**[Faceless YouTube Mentorship](https://samuel-oso-portfolio.vercel.app/work/faceless).** The landing page for my mentorship, built to play itself like a film: seven scenes on one clock, with a progress bar cut into chapters, subtitles and the keys of a video player. Scroll, and it stops and follows you one screen at a time. Anyone who asks for reduced motion gets the same scenes as a plain page. It hasn't launched yet and the code is private, so the [case study](https://samuel-oso-portfolio.vercel.app/work/faceless) covers how it works.
+
 **Before that.** Since 2022 I've shipped production web apps at Elta Solutions, Sterling Bank and Zapflow, in full-time and contract roles.
 
 ## How I work
