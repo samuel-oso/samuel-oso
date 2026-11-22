@@ -12,7 +12,7 @@ Most of what I build sits in private company repositories, so this profile shows
 
 [![Dojah's sign-in page in the new design](assets/dojah.png)](https://samuel-oso-portfolio.vercel.app/work/dojah)
 
-**[Dojah](https://samuel-oso-portfolio.vercel.app/work/dojah).** I'm a frontend engineer at Dojah, an identity verification company. In 2026 I built the new design for its dashboard, in light and dark. There was no switch-over day: the new screens went in beside the old ones while customers kept working, and colours that had been typed by hand were replaced with one set of named ones. I also build pages for the public website. The code is private, so the [case study](https://samuel-oso-portfolio.vercel.app/work/dojah) covers the decisions instead.
+**[Dojah](https://samuel-oso-portfolio.vercel.app/work/dojah).** I'm a frontend engineer at Dojah, an identity verification company. In 2026 I built the new design for its dashboard, in light and dark. It was built on its own branch while customers kept working on the old version, with old and new screens in separate folders until the last one had moved, then released to everyone at once. Colours that had been typed by hand were replaced with one set of named ones. I also build pages for the public website. The code is private, so the [case study](https://samuel-oso-portfolio.vercel.app/work/dojah) covers the decisions instead.
 
 [![The opening frame of the Faceless YouTube Mentorship landing page, with a video player's controls under it](assets/faceless.png)](https://samuel-oso-portfolio.vercel.app/work/faceless)
 
