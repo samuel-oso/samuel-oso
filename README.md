@@ -22,7 +22,7 @@ Most of what I build sits in private company repositories, so this profile shows
 
 ## How I work
 
-React, Next.js and TypeScript for products, with Jest and Playwright to keep them honest. I'm most useful on multi-step flows and dashboards, the screens where a lot of steps or a lot of data have to stay clear from the first screen to the last. I care about the parts people notice without naming them: fast loads, clear loading and error states, and flows that work for everyone. I mentor junior developers, review a lot of code, and use AI coding tools every day, checking and testing what they write before it ships.
+React, Next.js and TypeScript for products, with Jest and Playwright to keep them honest. I'm most useful on multi-step flows and dashboards, the screens where a lot of steps or a lot of data have to stay clear from the first screen to the last. I also design and build landing pages, like the one for Ehmer's mentorship that plays like a film. I care about the parts people notice without naming them: fast loads, clear loading and error states, and flows that work for everyone. I mentor junior developers, review a lot of code, and use AI coding tools every day, checking and testing what they write before it ships.
 
 ## Elsewhere
 
