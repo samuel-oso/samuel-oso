@@ -10,13 +10,13 @@ Most of what I build sits in private company repositories, so this profile shows
 
 **[Harmattan](https://github.com/samuel-oso/harmattan).** A dashboard for air quality across 20 African cities, hour by hour, named after the dusty wind that crosses West Africa each year. Every city is its own request, so one can fail and be retried without taking the others down. It charts seven pollutants over anything from a day to 90 days, compares up to four cities on one chart, and lists every hourly reading in a table you can sort, filter and download. Lint, types, unit tests, end-to-end tests and accessibility checks run on every push. The code is public, and it's [live here](https://harmattan-09s.vercel.app).
 
-[![Dojah's sign-in page in the new design](assets/dojah.png)](https://samuel-oso-portfolio.vercel.app/work/dojah)
+[![Dojah's sign-in page in the new design](assets/dojah.png)](https://www.samueloso.com/work/dojah)
 
-**[Dojah](https://samuel-oso-portfolio.vercel.app/work/dojah).** I'm a frontend engineer at Dojah, an identity verification company. In 2026 I built the new design for its dashboard, in light and dark. It was built on its own branch while customers kept working on the old version, with old and new screens in separate folders until the last one had moved, then released to everyone at once. Colours that had been typed by hand were replaced with one set of named ones. I also build pages for the public website. The code is private, so the [case study](https://samuel-oso-portfolio.vercel.app/work/dojah) covers the decisions instead.
+**[Dojah](https://www.samueloso.com/work/dojah).** I'm a frontend engineer at Dojah, an identity verification company. In 2026 I built the new design for its dashboard, in light and dark. It was built on its own branch while customers kept working on the old version, with old and new screens in separate folders until the last one had moved, then released to everyone at once. Colours that had been typed by hand were replaced with one set of named ones. I also build pages for the public website. The code is private, so the [case study](https://www.samueloso.com/work/dojah) covers the decisions instead.
 
-[![The opening frame of the Faceless YouTube Mentorship landing page, with a video player's controls under it](assets/faceless.png)](https://samuel-oso-portfolio.vercel.app/work/faceless)
+[![The opening frame of the Faceless YouTube Mentorship landing page, with a video player's controls under it](assets/faceless.png)](https://www.samueloso.com/work/faceless)
 
-**[Faceless YouTube Mentorship](https://samuel-oso-portfolio.vercel.app/work/faceless).** The landing page for my mentorship, built to play itself like a film: seven scenes on one clock, with a progress bar cut into chapters, subtitles and the keys of a video player. Scroll, and it stops and follows you one screen at a time. Anyone who asks for reduced motion gets the same scenes as a plain page. It hasn't launched yet and the code is private, so the [case study](https://samuel-oso-portfolio.vercel.app/work/faceless) covers how it works.
+**[Faceless YouTube Mentorship](https://www.samueloso.com/work/faceless).** A landing page I built for Ehmer (Abubakar Umoru) and his YouTube mentorship, made to play itself like a film: eight scenes on one clock, with a progress bar cut into chapters, subtitles and the keys of a video player. Scroll, and it stops and follows you one screen at a time. Anyone who asks for reduced motion gets the same scenes as a plain page. It's live at [ehmerskult.com](https://www.ehmerskult.com). The code is private, so the [case study](https://www.samueloso.com/work/faceless) covers how it works.
 
 **Before that.** Since 2022 I've shipped production web apps at Elta Solutions, Sterling Bank and Zapflow, in full-time and contract roles.
 
@@ -26,6 +26,6 @@ React, Next.js and TypeScript for products, with Jest and Playwright to keep the
 
 ## Elsewhere
 
-Case studies at [samuel-oso-portfolio.vercel.app](https://samuel-oso-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/samuel-oso/) · [ososamuel035@gmail.com](mailto:ososamuel035@gmail.com)
+Case studies at [samueloso.com](https://www.samueloso.com) · [LinkedIn](https://www.linkedin.com/in/samuel-oso/) · [ososamuel035@gmail.com](mailto:ososamuel035@gmail.com)
 
 Open to contract work.
